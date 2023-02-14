@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Varadekushagra/testing_appium_tizen_driver#readme",
   "dependencies": {
+    "@headspinio/tizen-remote": "^0.4.4",
     "webdriverio": "^8.3.3"
   }
 }
